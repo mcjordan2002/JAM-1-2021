@@ -1,6 +1,6 @@
 # JAM-1-2021
 
-Go to [Caption](http://jam-ppf.herokuapp.com/)
+Go to [Our link](http://jam-ppf.herokuapp.com/)
 
 The topic of this Jam was Past, Present, Future
 
